@@ -22,3 +22,4 @@ result2=arr1+arr2
 
 print("Time taken to compute sum of ndarray",time.time()-initial*1000)#multiplying by 1000 to convert sec into milliseconds
 
+ 
